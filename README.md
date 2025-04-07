@@ -43,8 +43,6 @@ A aplicação possui duas abas:
 📌 **Moeda Específica** – Selecione a moeda, escolha uma data e clique em "Pegar Cotação".  
 📌 **Múltiplas Moedas** – Indique o período de datas (via planilha) e o sistema atualiza automaticamente as informações.
 
-![Interface do Projeto](./path/to/screenshot.png) ← *(substituir com a imagem se for subir pro GitHub)*
-
 ---
 
 ##  Estrutura esperada da planilha
